@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ElementalRings",
+  "name": "Elemental Rings",
+  "description": "Rings can do much more than you think",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "jrkyex"
+  ],
+  "credits": "to all of you who believe in me",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
